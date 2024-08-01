@@ -1,6 +1,6 @@
 
 <div>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKurths&layout=compact&langs_count=16&theme=gotham"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKurths&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
 <br>
 
